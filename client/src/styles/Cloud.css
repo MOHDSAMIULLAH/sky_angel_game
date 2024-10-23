@@ -1,0 +1,13 @@
+/* src/Cloud.css */
+.cloud {
+    position: absolute;
+    width: 150px;
+    height: 80px;
+    opacity: 0.8;
+  }
+  
+  .cloud img {
+    width: 100%;
+    height: auto;
+  }
+  
