@@ -54,7 +54,7 @@ Sky Angel is a browser-based game developed using HTML, CSS, JavaScript, and Rea
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/sky-angel.git
+   git clone [https://github.com/yourusername/sky-angel.git](https://github.com/MOHDSAMIULLAH/sky_angel_game.git)
    cd sky-angel
    
 
