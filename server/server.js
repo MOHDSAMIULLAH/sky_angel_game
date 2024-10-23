@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 // MongoDB connection
-mongoose.connect('mongodb://localhost:27017/skyangel');
+mongoose.connect('mongodb+srv://samiullah0813:samiullah0813@cluster0.2dj0a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
 
 // Create a Mongoose schema and model for the game data
 const playerSchema = new mongoose.Schema({
